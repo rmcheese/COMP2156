@@ -1,0 +1,13 @@
+{
+  "name": "comp2156",
+  "version": "1.0.0",
+  "description": "Comp2156 Lab Exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Warning: No tests created yet.\"",
+    "ci": "echo \"No ci configured\""
+  },
+  "keywords": [],
+  "author": "rmcheese",
+  "license": "ISC"
+}
